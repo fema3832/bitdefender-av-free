@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ua-connect</id>
+    <version>1.0.0</version>
+    <title>Universal Audio – UA Connect</title>
+	<packageSourceUrl>https://github.com/fema3832/chocolatey-packages/ua-connect</packageSourceUrl>
+    <authors>Universal Audio</authors>
+    <owners>fema3832</owners>
+    <projectUrl>https://www.uaudio.com/</projectUrl>
+    <licenseUrl>https://www.uaudio.com/legal.html</licenseUrl>
+	<iconUrl>https://upload.wikimedia.org/wikipedia/commons/b/b5/UA_Logo.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+UA Connect is Universal Audio's software manager for Windows, used to install
+drivers, firmware, and UA software.
+    </description>
+    <tags>universal-audio ua uad ua-connect audio driver</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

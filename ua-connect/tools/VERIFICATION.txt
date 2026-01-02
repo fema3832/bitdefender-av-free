@@ -1,0 +1,7 @@
+VERIFICATION
+------------
+
+Installer was obtained from:
+https://www.uaudio.com/apps/uaconnect/win/installer
+
+Checksum calculated locally using Get-FileHash (SHA256).
